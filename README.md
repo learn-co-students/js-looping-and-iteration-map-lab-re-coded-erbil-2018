@@ -1,4 +1,4 @@
-# Map Lab
+le# Map Lab
 
 ## Overview
 In this lab, we'll use the `map` method to write functions that properly query our data.
